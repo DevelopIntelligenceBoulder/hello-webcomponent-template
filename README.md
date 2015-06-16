@@ -1,10 +1,13 @@
 # hello-webcomponent-template
 A simple example of Hello World written with HTML5 Web Components utilizing the [Template DOM element](http://www.w3.org/TR/html51/semantics.html#the-template-element).
 
+## Do this first
+Before looking at the HTML5 Web Component `<template>` element take a look at how to acheive this in [Plain HTML and JavaScript](https://github.com/DevelopIntelligenceBoulder/hello-plain-old-javascript).
+
 ## Browser Support
 Check out [Can I Use](http://caniuse.com/#feat=template) to see if/when [IE](https://status.modern.ie/templateelement) will adopt the use of the `<template>` element.
 
-##What is this?
+## What is this?
 This example shows how to utilize templates the HTML5 Web Component Specification. The`<template>`holds reusable HTML elements and are populated with model properties.
 
 ### Within the js/main.js
