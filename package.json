@@ -1,0 +1,19 @@
+{
+  "name": "hello-webcomponent-template",
+  "version": "0.0.1",
+  "description": "Hello World with HTML5 Web Components Template Element ",
+  "scripts": {
+    "start": "node server.js",
+    "prestart": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-template.git"
+  },
+  "author": "Kamren Zorgdrager <kamrenz@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-template",
+  "devDependencies": {
+    "express": "^4.12.4"
+  }
+}
