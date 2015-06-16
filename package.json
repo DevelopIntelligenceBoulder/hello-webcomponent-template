@@ -1,6 +1,6 @@
 {
   "name": "hello-webcomponent-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hello World with HTML5 Web Components Template Element ",
   "scripts": {
     "start": "node server.js",
@@ -15,5 +15,8 @@
   "homepage": "https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-template",
   "devDependencies": {
     "express": "^4.12.4"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
   }
 }
