@@ -2,7 +2,7 @@
 A simple example of Hello World written with HTML5 Web Components utilizing the [Template DOM element](http://www.w3.org/TR/html51/semantics.html#the-template-element).
 
 ## Do this first
-Before looking at the HTML5 Web Component `<template>` element take a look at how to achieve this in [Plain HTML and JavaScript](https://github.com/DevelopIntelligenceBoulder/hello-plain-old-javascript).
+Before looking at the HTML5 Web Component `<template>` element take a look at how to achieve this in [Plain HTML and JavaScript](https://github.com/DevelopIntelligenceBoulder/hello-plain-old-javascript) and take a look how to achieve this with [HTML Imports via Web Components](https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-import).
 
 ## Browser Support
 Check out [Can I Use](http://caniuse.com/#feat=template) to see if/when [IE](https://status.modern.ie/templateelement) will adopt the use of the `<template>` element.
