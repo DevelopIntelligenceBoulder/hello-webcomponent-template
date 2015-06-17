@@ -5,8 +5,8 @@
     var APP_ELEMENT_ID = 'app';
 
     /**
-     * Initiates the view interaction.
-     * @param model The data to be applied to the view
+     * Initiates the component interaction.
+     * @param model The data to be applied to the component
      */
     var initializeHelloComponent = function initializeHelloComponent(model) {
         DI.App.HelloComponent.render(APP_ELEMENT_ID, model);
